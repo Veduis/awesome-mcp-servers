@@ -152,6 +152,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Automated extraction, transformation, and analysis of information from documents to make their content usable by software systems.
 
 - <img src="https://avatars.githubusercontent.com/u/166614754?s=200&v=4" height="14"/> [Adeu](https://github.com/dealfluence/adeu) - Automated DOCX Redlining Engine and "Virtual DOM" for Microsoft Word. Enables agents to read, diff, edit, and negotiate contracts locally or via live COM interop.
+- <img src="https://avatars.githubusercontent.com/u/214169603?v=4" height="14"/> [pdf-a11y-audit](https://github.com/Veduis/pdf-a11y-audit) - Local-first PDF accessibility auditor for people and agents. Checks a local PDF's structure, headings, tables, figures, forms, reading order, scans, fonts and metadata; returns cited findings plus a self-contained HTML report. No upload, no account and no model call.
 
 
 <br />
